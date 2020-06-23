@@ -2,4 +2,6 @@
 
 [CIERA Homepage](http://ciera.northwestern.edu/)
 
-I like this text. 
+I like this text.
+
+Cubs are a MLB team.

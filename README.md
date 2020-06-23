@@ -4,4 +4,4 @@
 
 I like this text.
 
-Cubs are a MLB team.
+Cardinals are another MLB team.
